@@ -14,8 +14,7 @@ A gamified financial education platform built using React and Node.js.
 - Frontend: React
 - Backend: Node.js + Express
 
-## 📸 Demo
-(Add screenshots here)
+
 
 ## 📌 Future Improvements
 - Login system
